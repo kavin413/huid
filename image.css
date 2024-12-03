@@ -1,0 +1,15 @@
+p {
+    text-shadow: -3px 2px 3px blueviolet;
+}
+
+h1 {
+    box-shadow: 12px 9px 23px 3px red;
+}
+
+h4 {
+    text-indent: 23px;
+}
+
+h2 {
+    text-indent: 3em;
+}
